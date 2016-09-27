@@ -6,11 +6,7 @@
     <entry>
       <title><![CDATA[第一篇博客]]></title>
       <url>http://lovelycode.cn/2016/09/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="400" height="86" src="http://music.163.com/outchain/player?type=2&id=27102079&auto=1&height=66"></iframe></p>
-<blockquote>
-<p>纸上得来终觉浅，绝知此事要躬行</p>
-</blockquote>
-]]></content>
+      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div><script>var aplayer0 = new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 0,music : {title: "http://music.163.com/outchain/player?type=2&id=27102079&auto=1&height=66",author: "undefined",url: "undefined",pic: ""}});aplayer0.init();</script>]]></content>
     </entry>
     
     <entry>
