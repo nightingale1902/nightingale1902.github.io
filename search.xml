@@ -4,9 +4,11 @@
   
     
     <entry>
-      <title><![CDATA[第一篇博客]]></title>
+      <title></title>
       <url>http://lovelycode.cn/2016/09/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div><script>var aplayer0 = new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 0,music : {title: "http://music.163.com/outchain/player?type=2&id=27102079&auto=1&height=66",author: "undefined",url: "undefined",pic: ""}});aplayer0.init();</script>]]></content>
+      <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><hr>
+<p>title: 第一篇博客<br>date: 2016-09-27 10:59:32</p>
+<h2 id="tags-hexo"><a href="#tags-hexo" class="headerlink" title="tags: hexo"></a>tags: hexo</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div><script>var aplayer0 = new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 0,music : {title: "http://music.163.com/outchain/player?type=2&id=27102079&auto=1&height=66",author: "undefined",url: "undefined",pic: ""}});aplayer0.init();</script>]]></content>
     </entry>
     
     <entry>
